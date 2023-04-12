@@ -1,0 +1,59 @@
+/* 
+  Localizable(en).strings
+  GameAppSwiftUI
+
+  Created by Hubert Szczechowski on 03/04/2023.
+  
+*/
+"forgot_password" = "Forgot password?";
+"login" = "Login";
+"register" = "Register";
+"login" = "Login";
+"error_title" = "Error";
+"error_invalid_login" = "Wrong password or email";
+"xmark" = "xmark";
+"Password" = "Password";
+"insert_password" = "Insert Question";
+"correctAnswer" = "Correct answer";
+"wrongAnswer" = "Wrong Answer";
+"addQuestion" = "Add uestion";
+"quizQuestions" = "quizQuestions";
+"1" = "1";
+"2" = "2";
+"3" = "3";
+"4" = "4";
+"id" = "id";
+"question" = "question";
+"ans" = "answers";
+"isCorrect" = "isCorrect";
+"questionmark" = "questionmark.app";
+"questionmark_square" = "questionmark.square.dashed";
+"loading" = "Loading...";
+"finishedQuizPart1" = "Quiz finished. Your score is ";
+"finishedQuizPart2" = "out of ";
+"ok" = "OK";
+"correct" = "Correct!";
+"congratulations" = "Congratulations, you got the right answer.";
+"incorrect" = "Incorrect";
+"sorryWrongAnswer" = "Sorry, that's the wrong answer.";
+"answer" = "answer";
+"ErrorGettingDoc" = "Error getting documents:";
+"start" = "Start";
+"logOut" = "logOut";
+"quizGame" = "QuizGame";
+"deinitSession" = "deinit SessionServiceImpl";
+"users" = "users";
+"filed" = "Filed:";
+"sendResetPass" = "Send Password Reset REQ";
+"emailAdress" = "Email";
+"sfenvelope" = "envelope";
+"submit" = "Submit";
+"resetPass" = "Reset Password";
+"InvalidUserID" = "Invalid User ID";
+"nick" = "Nick";
+"sfBubble" = "bubble.right";
+"sfLock" = "lock";
+"singUp" = "Sing up";
+"questionof" = "Question";
+"of" = "of";
+"changeLangTitle" = "ChangeLang";

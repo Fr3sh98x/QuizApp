@@ -1,0 +1,68 @@
+/* 
+  Localizable(pl).strings
+  GameAppSwiftUI
+
+  Created by Hubert Szczechowski on 03/04/2023.
+  
+*/
+
+
+"forgot_password" = "Przypomnienie hasła";
+"login" = "Logowanie";
+"register" = "Rejestracja";
+"login" = "Logowanie";
+"error_title" = "Error";
+"error_invalid_login" = "Złe hasło albo email";
+"xmark" = "xmark";
+"Password" = "hasło";
+"insert_password" = "Wpisz pytanie";
+"correctAnswer" = "Poprawna odpowiedz";
+"wrongAnswer" = "Odpowiedz";
+"addQuestion" = "Dodaj Pytanie";
+"quizQuestions" = "quizQuestions";
+"1" = "1";
+"2" = "2";
+"3" = "3";
+"4" = "4";
+"id" = "id";
+"question" = "question";
+"ans" = "answers";
+"isCorrect" = "isCorrect";
+"questionmark" = "questionmark.app";
+"questionmark_square" = "questionmark.square.dashed";
+"loading" = "Ładowanie...";
+"finishedQuizPart1" = "Quiz skonczony. Twoj wynik to: ";
+"finishedQuizPart2" = "z ";
+"quizResult" = "Question \(currentQuestionIndex + 1) of \(quizVM.quizQuestions.count)";
+"ok" = "OK";
+"correct" = "Dobra odpowiedz";
+"congratulations" = "Gratuluje twoja odpowiedz jest prawidłowa";
+"incorrect" = "Niepoprawna odpowiedz";
+"sorryWrongAnswer" = "Niestety twoja odpowiedz nie jest dobra";
+"answer" = "answer";
+"ErrorGettingDoc" = "Error getting documents:";
+"start" = "Rozpocznij rozgrywke";
+"logOut" = "wyloguj";
+"quizGame" = "QuizGame";
+"deinitSession" = "deinit SessionServiceImpl";
+"users" = "users";
+"filed" = "Filed:";
+"sendResetPass" = "Wysłano prośbe o zmiane hasła";
+"emailAdress" = "Email";
+"sfenvelope" = "envelope";
+"submit" = "Wyślij hasło";
+"resetPass" = "Resetowanie hasła";
+"InvalidUserID" = "Nieporpawne ID Użytkownika";
+"nick" = "Nick";
+"sfBubble" = "bubble.right";
+"sfLock" = "lock";
+"singUp" = "Zarejestruj się";
+"questionof" = "Pytanie";
+"of" = "z";
+"changeLangTitle" = "Zmiana języka";
+"polishLang" = "Polski";
+"englishLang" = "Angielski";
+"questionOf" = "pytanie";
+"gear" = "gear";
+"darkMode" = "Tyb Ciemny";
+"isDarkMode" = "isDarkMode";

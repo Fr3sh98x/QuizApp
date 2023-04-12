@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>108339623883-bok4ab4p5qgsgnbm1g2ul4ib995fo8ea.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.108339623883-bok4ab4p5qgsgnbm1g2ul4ib995fo8ea</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCyIsJjP0VlASQCycbdY4IO2CS4Vi-LFfI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>108339623883</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Game.GameAppSwiftUI</string>
+	<key>PROJECT_ID</key>
+	<string>gameappswiftui</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gameappswiftui.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:108339623883:ios:b3cee65f9340c195f2684e</string>
+</dict>
+</plist>
